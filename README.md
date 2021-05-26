@@ -12,7 +12,7 @@
   ### Operation:
   * Upon running the program, you will be prompted to choose an option.
   * You can select any of the options from the list by inputting their first letter, i.e, for creating a grid, type "C" or "c".
-  * After choosing an option, enter the appropriate file names in which Data is stored.
+  * After choosing an option, enter the appropriate file names in which the data is stored.
     ## Note: 
       * File Contents for creating a grid should only contain words.
       * File Contents for searching in a grid should only contain grid in the grid input file and grid dimensions, number of words to be searched, and words in the Data file respectively.
