@@ -1,7 +1,7 @@
 # CPP Word Search Generator and Searcher by Usman
 
   [![Word Search](https://i.ibb.co/981H4tD/words.jpg) ](https://en.wikipedia.org/wiki/Word_search)
-
+  *Click the image above for more information*
 ## Working
 * A simple word search game written with c++ code supported to run on Visual Studio 2012. The grids are outputted with words hidden in various ways such as diagonal, vertical, or horizontal with randomly generated characters in empty spaces. 
 * Similarly, the search sequence is *case-insensitive* and finds all of the words in the list in all possible 8 directions in the grid. It also saves a list of the words found with their indexes to point to towards their location.
